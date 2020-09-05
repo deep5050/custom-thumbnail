@@ -1,5 +1,3 @@
-
-
 <p align=center> <h2 align=center>custom-thumbnail</h2></p>
 
 <p align=center>A GitHub action that recursively creates custom thumbnails keeping aspect ratio and directory structure unchanged :)</p>
@@ -40,7 +38,12 @@ jobs:
 ```
 
 ## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeep5050%2Fcustom-thumbnail.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeep5050%2Fcustom-thumbnail?ref=badge_shield)
+
 >GNU Public License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeep5050%2Fcustom-thumbnail.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeep5050%2Fcustom-thumbnail?ref=badge_large)
+
 ## Bugs
 [submit bugs here](https://github.com/deep5050/custom-thumbnail/issues)
 
